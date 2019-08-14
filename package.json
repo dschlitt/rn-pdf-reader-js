@@ -25,7 +25,9 @@
   "peerDependencies": {
     "expo": "*",
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "expo-file-system" :"*",
+    "expo-constants": "*"
   },
   "dependencies": {
     "buffer": "5.1.0",

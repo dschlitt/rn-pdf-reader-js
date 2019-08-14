@@ -7,8 +7,8 @@ import {
   Platform,
   StyleSheet,
 } from 'react-native'
-import { FileSystem } from 'expo'
-import { Constants } from 'expo'
+import Constants from 'expo-constants'
+import * as FileSystem from 'expo-file-system'
 
 const {
   cacheDirectory,
